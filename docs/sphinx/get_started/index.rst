@@ -75,7 +75,7 @@ Create a Pigweed-based project
       Pigweed and then build the app with Zephyr's ``native_sim`` board.
 
    .. grid-item-card:: :octicon:`code` Examples
-      :link: https://pigweed.dev/examples/index.html
+      :link: https://pigweed.googlesource.com/pigweed/examples
       :link-type: url
       :class-item: sales-pitch-cta-secondary
 
